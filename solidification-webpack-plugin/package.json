@@ -1,0 +1,22 @@
+{
+	"name": "solidification-webpack-plugin",
+	"description": "webpack plugin for h5 webapp solidification",
+	"version": "0.0.1",
+	"main": "src/index.js",
+	"keywords": [
+		"webpack",
+		"plugin",
+		"solidification",
+		"h5",
+		"webapp"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lin2jie2/solidification-webpack-plugin.git"
+	},
+	"author": "lin2jie2 <lin2jie2@gmail.com>",
+	"homepage": "https://github.com/lin2jie2/solidification-webpack-plugin#readme",
+	"peerDependencies": {
+		"webpack": "^2 || ^3"
+	}
+}
